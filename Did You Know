@@ -1,0 +1,28 @@
+<DOCTYPE! html>
+<html lang="en">    
+<head>
+    <meta charset="UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Did You Know</title>
+</head>
+<body>
+    <h1>Did You Know?</h1>
+    <p>Welcome to the most amazing facts page on the internet.Get ready to have your mind blown!</p>
+    <h2>Fact 1: The Amazing Octopus</h2>
+    <p>Octopuses have three hearts,nine brains, and blue blood. Two hearts pump blood to the gills, while the third pumps it to the rest of the body. </p>
+    <h3>How Smart Octopuses Are</h3>
+    <p>Octopuses can open jars, solve puzzles, and even recognize human faces. Scientists consider them to be one of the most intelligent invertebrates on the earth.</p>
+    <h2>Fact 2: Lightning Strikes</h2>
+    <p> Lightning strikes the earth about 100 times every second. That's over 8 million lightning strikes per day!</p>
+    <h3>How Hot is Lightning?</h3>
+    <p> A single bolt of lightning can reach temperatures of 30,000 kelvins , which is hotter than the surface of the sun!</p>
+<h4>Can lightning strike the same place twice?</h4>
+
+    <p>Yes, lightning can strike the same place multiple times. Especially, tall structures like towers and trees</p>
+    <h2>Fact 3: The Deep ocean</h2>
+<p>More than 80% of the world's oceans remain unexplored. Scientists believe that there are millions of species living in the deep sea that we have never discovered.</p>
+    <h6>Source</h6>
+    <p>Facts sourced from National Geographic and NOAA and Ocean Exploration</p>
+</body>
+</html>
